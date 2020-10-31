@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/phgomes2010/phgomes2010.github.io/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/phgomes2010/phgomes2010.github.io/static/js/main.cc4dbcf7.chunk.js",
+    "main.js.map": "/phgomes2010/phgomes2010.github.io/static/js/main.cc4dbcf7.chunk.js.map",
+    "runtime-main.js": "/phgomes2010/phgomes2010.github.io/static/js/runtime-main.55b0db8b.js",
+    "runtime-main.js.map": "/phgomes2010/phgomes2010.github.io/static/js/runtime-main.55b0db8b.js.map",
+    "static/js/2.8704c093.chunk.js": "/phgomes2010/phgomes2010.github.io/static/js/2.8704c093.chunk.js",
+    "static/js/2.8704c093.chunk.js.map": "/phgomes2010/phgomes2010.github.io/static/js/2.8704c093.chunk.js.map",
+    "static/js/3.cfc996a1.chunk.js": "/phgomes2010/phgomes2010.github.io/static/js/3.cfc996a1.chunk.js",
+    "static/js/3.cfc996a1.chunk.js.map": "/phgomes2010/phgomes2010.github.io/static/js/3.cfc996a1.chunk.js.map",
+    "index.html": "/phgomes2010/phgomes2010.github.io/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/phgomes2010/phgomes2010.github.io/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.8704c093.chunk.js.LICENSE.txt": "/phgomes2010/phgomes2010.github.io/static/js/2.8704c093.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/phgomes2010/phgomes2010.github.io/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55b0db8b.js",
+    "static/js/2.8704c093.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.cc4dbcf7.chunk.js"
+  ]
+}
